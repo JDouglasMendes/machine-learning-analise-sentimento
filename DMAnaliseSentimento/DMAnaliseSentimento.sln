@@ -7,7 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMAnaliseSentimentoML.Model
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMAnaliseSentimento.Web.API", "DMAnaliseSentimento.Web.API\DMAnaliseSentimento.Web.API.csproj", "{F1586CA3-76AE-48C7-8678-FDC70AEA6EDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAnaliseSentimento.Integration.Test", "DMAnaliseSentimento.Integration.Test\DMAnaliseSentimento.Integration.Test.csproj", "{562E5F32-81FA-4607-A9A0-6584B5A56F49}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "database", "database", "{F98C3910-5F32-4D41-9729-F16D2A3C01A4}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\dougl\Documents\script.sql = C:\Users\dougl\Documents\script.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +26,6 @@ Global
 		{F1586CA3-76AE-48C7-8678-FDC70AEA6EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1586CA3-76AE-48C7-8678-FDC70AEA6EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1586CA3-76AE-48C7-8678-FDC70AEA6EDD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{562E5F32-81FA-4607-A9A0-6584B5A56F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{562E5F32-81FA-4607-A9A0-6584B5A56F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{562E5F32-81FA-4607-A9A0-6584B5A56F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{562E5F32-81FA-4607-A9A0-6584B5A56F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
