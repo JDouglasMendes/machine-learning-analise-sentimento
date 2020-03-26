@@ -1,6 +1,6 @@
 # Analise de Sentimento em Comentário - Machime Learning .NET
 
-Aplicativo que fornece Endpoint(JSON) para verificar o sentimento de um texto, sendo possível treinar o modelo para o contexto de uso informando novos dados para o DataSet e treinamento o modelo novamente, também foi pensado na permance da analise doo texto fazendo cache em memória do **PrectionEngine** durante 60 segundos.
+Aplicativo que fornece Endpoint(JSON) para verificar o sentimento de um texto, sendo possível treinar o modelo para o contexto de uso, para isso basta informar dados qualificados para o DataSet e treinamento o modelo novamente, também foi pensado na permance da analise doo texto fazendo cache em memória do **PrectionEngine** durante 60 segundos.
 
 ## Proposta de valor para o aplicativo
 
