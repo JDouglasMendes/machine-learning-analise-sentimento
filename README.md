@@ -2,6 +2,10 @@
 
 Aplicativo que fornece Endpoint(JSON) para verificar o sentimento de um texto, sendo possível treinar o modelo para o contexto da aplicação que irá integrar, para isso basta informar dados qualificados para o DataSet e treinar o modelo novamente, tudo isso via API, também foi pensado na performance da analise do texto fazendo cache em memória do **PrectionEngine** durante 60 segundos.
 
+![GitHub](https://img.shields.io/github/license/JdouglasMendes/machine-learning-analise-sentimento)
+![GitHub issues](https://img.shields.io/github/issues/JdouglasMendes/machine-learning-analise-sentimento)
+![GitHub top language](https://img.shields.io/github/languages/top/JdouglasMendes/machine-learning-analise-sentimento)
+
 ## Proposta de valor para o aplicativo
 
 Negócio    | Cenário
